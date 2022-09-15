@@ -1,3 +1,3 @@
 Atom
 
-IT20 @ KMITL
+IT20, Section 2, KMITL
