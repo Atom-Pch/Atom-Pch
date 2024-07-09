@@ -1,3 +1,3 @@
 **Atom**
 
-IT20, Section 2, Software Development, KMITL
+IT20, Software Development, KMITL
