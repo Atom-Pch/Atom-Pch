@@ -1,4 +1,4 @@
-# Hi, I'm a fresh grad IT student interested in cloud and DevOps role
+# Hi! I'm a fresh grad IT student interested in cloud and DevOps role
 
 During my study at the univerity, I did various full-stack web development projects as well as cloud computing with AWS. For my internship, I chose a software tester role to branch out my skills.
 
