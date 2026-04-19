@@ -2,7 +2,7 @@
 
 During my study at the univerity, I did various full-stack web development projects as well as cloud computing with AWS. For my internship, I chose a software tester role to branch out my skills.
 
-Now, I want to fully transition from being a web dev to a cloud/DevOps engineer!
+Now, I want to fully transition from being a dev to a cloud/DevOps engineer!
 
 ## Languages, Tools, Frameworks, etc. that I have some experience with
 
