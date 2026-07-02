@@ -1,6 +1,6 @@
 # Hi! I'm a fresh grad IT student interested in Test automation and DevOps
 
-Currently, learning about Infrastructure at my first job! Probably will look into AI if I've got a brain for it 😅
+Currently learning about cloud and infrastructure at my first job! Probably will look into AI if I've got a brain for it 😅
 
 ## Languages, Tools, Frameworks, etc. that I have some experience with
 
