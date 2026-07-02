@@ -1,8 +1,6 @@
-# Hi! I'm a fresh grad IT student interested in cloud, test automation, and DevOps.
+# Hi! I'm a fresh grad IT student interested in Test automation and DevOps
 
-During my study at the univerity, I did various full-stack web development projects as well as cloud computing with AWS. For my internship, I chose a software tester role to branch out my skills.
-
-Currently, I'm building an End-to-End SDLC project involving full-stack web development, CI/CD pipelines, software testing, containerisation and orchestration, and monitoring and observability. Any comments or feedbacks are welcome!
+Currently, learning about Infrastructure at my first job! Probably will look into AI if I've got a brain for it 😅
 
 ## Languages, Tools, Frameworks, etc. that I have some experience with
 
